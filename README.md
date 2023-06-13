@@ -1,3 +1,7 @@
+![image](https://github.com/sncrsenyurt/belly-button-challenge/assets/35157651/526ca1f3-3650-40bb-aef2-98e1cf2ea256)
+
+
+
 # Belly Button Challenge
 
 This project is an interactive dashboard that explores the Belly Button Biodiversity dataset, which contains information about the microbes found in human navels.
